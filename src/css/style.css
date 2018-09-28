@@ -22,3 +22,13 @@ header {
   height: 40px;
   background: blue;
 }
+
+section {
+  flex: 1;
+}
+
+footer {
+  width: 100%;
+  height: 40px;
+  background: orange;
+}
